@@ -1,6 +1,0 @@
-A simple project playing with LEDs and switches available on the board. A simple VHDL file (LedBlinkingDSpeed.vhd) creates the top-level entity.
-
-A clean project is available at: https://github.com/pcotret/smartfusion2-getting-started/tree/master/tutorials/led-blinking
-
- 
-
